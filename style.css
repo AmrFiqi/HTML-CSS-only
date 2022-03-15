@@ -1,0 +1,21 @@
+body{
+    display:grid;
+    
+}
+
+.navbar{
+    background-color: white;
+    top: 0px;
+    padding-top: 10px;
+    margin-top: 0px;
+}
+.navbar a{
+    color: 5569DC;
+    text-align: center;
+    font-size: 17px;
+    font-style: bold;
+    
+}
+.navbar a:hover{
+    background-color: aqua;
+}
