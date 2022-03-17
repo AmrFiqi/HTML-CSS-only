@@ -62,8 +62,10 @@ a{
 }
 .bigpart .textintro{
     position: absolute;
-    bottom: 8px;
-  left: 16px;
+    top: 40%;
+    left: 440px;
+    color: white;
+  
 }
 #mine{
     border-radius: 50%;
