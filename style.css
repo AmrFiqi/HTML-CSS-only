@@ -89,8 +89,10 @@ a{
   }
 
   /*----------------About--------------*/
-  .about{
+.about{
       background-color: #EDF0FC;
+      margin: 0;
+      padding:20px;
   }
 
 
